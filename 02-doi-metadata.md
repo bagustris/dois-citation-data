@@ -84,9 +84,9 @@ to retrieve different representations of a work from the API service.
 > > bibliography
 > > using command line tools:
 > >
-> > `$cat cite1.bib, cite2.bib, cite3 bib > citations.bib`
+> > `$ cat cite1.bib, cite2.bib, cite3 bib > citations.bib`
 > > 
-> > `$cat citations.bib`
+> > `$ cat citations.bib`
 > > 
 > > Everything look okay? Save that concatenated file
 
